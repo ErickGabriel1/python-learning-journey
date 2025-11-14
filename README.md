@@ -1,2 +1,2 @@
 # python-learning-journey
-Programming practice with problems that challenged me and taught me a lot.
+This repository contains programming exercises and projects solved in Python
