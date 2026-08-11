@@ -12,4 +12,3 @@ quadruple = operation(4)
 print(double(10))
 print(triple(10))
 print(quadruple(10))
-
